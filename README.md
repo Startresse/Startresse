@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Startresse
+- 👀 I’m interested in video game developement
+- 🌱 I’m currently learning 3D imagery in my [ID3D master](http://master-info.univ-lyon1.fr/ID3D/) (Université Claude Bernard - Lyon 1 - France)
+- 💻 I code mainly in c++ but I can code in c# (esp. for Unity), python, c and Java.
+- 📫 Email me at startresse.guillard@gmail.com if you ever want to reach me!
